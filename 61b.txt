@@ -1,2 +1,2 @@
-Welcome to cs61b。
+61b 更改为版本 2
 
